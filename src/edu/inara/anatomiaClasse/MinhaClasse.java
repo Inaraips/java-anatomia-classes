@@ -1,3 +1,4 @@
+package edu.inara.anatomiaClasse;
 public class MinhaClasse {
 
     public static void main (String [] args){
